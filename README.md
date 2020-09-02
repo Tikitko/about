@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="http://tikitko.su/images/tikitko.svg" alt="Tikitko" height="150" />
+  <a href="https://github.com/Tikitko/about/"><img src="http://tikitko.su/images/tikitko.svg" alt="Tikitko" height="150" /></a>
 </p>
 <p align="center">
-	<a href="mailto:bns.6587@gmail.com"><img alt="E-mail" src="https://github.com/Tikitko/about/blob/develop/images/email.svg" height="40"/></a>
+  <a href="mailto:bns.6587@gmail.com"><img alt="E-mail" src="https://github.com/Tikitko/about/blob/develop/images/email.svg" height="40"/></a>
   &nbsp;
   <a href="https://vk.com/tikitko"><img alt="VK" src="https://github.com/Tikitko/about/blob/develop/images/vk.svg" height="40"/></a>
   &nbsp;
