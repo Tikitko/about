@@ -13,7 +13,8 @@
   <a href="https://discord.com/users/272373629956653066"><img alt="Discord" src="https://github.com/Tikitko/about/blob/develop/images/discord.svg" height="40"/></a>
 </p>
 
-<p align="center"><h3 align="center">About me</h3><sub>Hello, my name is Nikita (Mikita) and I am from Belarus 🇧🇾! I am a developer who really loves what I do. My main specialty is iOS development 🍎 with Swift. But I also like Rust language ⚙, web development 🌐 and more. I try to make the world a better place. 🚀<sub></p>
+<h3 align="center">About me</h3>
+<p align="center"><sub>Hello, my name is Nikita (Mikita) and I am from Belarus 🇧🇾! I am a developer who really loves what I do. My main specialty is iOS development 🍎 with Swift. But I also like Rust language ⚙, web development 🌐 and more. I try to make the world a better place. 🚀<sub></p>
 
 <hr/>
 
