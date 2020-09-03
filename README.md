@@ -83,6 +83,15 @@
           <a href="https://github.com/Tikitko/Suppl-API">Sources (API)</a>
         </td>
       </tr>
+      <tr>
+        <td height="50%"><img src="https://github.com/Tikitko/about/blob/develop/images/projects/tikitko.jpg" width="100%" /></td>
+        <td height="50%">
+          <h3>Personal page (Tikitko)</h3>
+          <p>Status: <i>completed</i></p>
+          <p>Personal web page about me on HTML and CSS.</p>
+          <a href="http://tikitko.su/">tikitko.su</a>
+        </td>
+      </tr>
     </tbody>
   </table>
   
