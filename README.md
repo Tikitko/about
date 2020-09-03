@@ -92,6 +92,14 @@
           <a href="http://tikitko.su/">tikitko.su</a>
         </td>
       </tr>
+      <tr>
+        <td height="50%"><img src="https://github.com/Tikitko/about/blob/develop/images/projects/pargo.jpg" width="100%" /></td>
+        <td height="50%">
+          <h3>ParGO</h3>
+          <p>Status: <i>closed</i></p>
+          <p>A program for watching movies online written in C++.</p>
+        </td>
+      </tr>
     </tbody>
   </table>
   
