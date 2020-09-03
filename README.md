@@ -14,6 +14,23 @@
 </p>
 
 <p align="center">
-  <b>About me</b></br>
+  <b>About me</b><br/>
   <sub>Hello, my name is Nikita (Mikita) and I am from Belarus 🇧🇾! I am a developer who really loves what I do. My main specialty is iOS development 🍎 with Swift. But I also like Rust language ⚙, web development 🌐 and more. I try to make the world a better place. 🚀<sub>
 </p>
+
+<hr/>
+
+<h3>My projects</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Temp header</th>
+      </tr>
+      <tr>
+        <td>Temp</td>
+      </tr>
+      <tr>
+        <td>Temp</td>
+      </tr>
+    </tbody>
+  </table>
