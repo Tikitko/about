@@ -14,7 +14,7 @@
 </p>
 
 <h3 align="center">About me</h3>
-<p align="center">Hello, my name is Nikita (Mikita) and I am from Belarus 🇧🇾! I am a developer who really loves what I do. My main specialty is iOS development 🍎 with Swift. But I also like Rust language ⚙, web development 🌐 and more. I try to make the world a better place. 🚀</p>
+<p align="center">Hello, my name is Nikita (Mikita) and I am from Belarus! I am a developer who really loves what I do. My main specialty is iOS development with Swift. But I also like Rust language, web development and more. I try to make the world a better place.</p>
 
 <br/>
 
