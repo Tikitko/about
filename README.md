@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Tikitko/about/"><img src="http://tikitko.su/images/main/tikitko.svg" alt="Tikitko" height="150" /></a>
+  <a href="https://github.com/Tikitko/about/"><img src="https://github.com/Tikitko/about/blob/develop/images/main/tikitko.svg" alt="Tikitko" height="150" /></a>
 </p>
 <p align="center">
   <a href="mailto:bns.6587@gmail.com"><img alt="E-mail" src="https://github.com/Tikitko/about/blob/develop/images/main/email.svg" height="40"/></a>
