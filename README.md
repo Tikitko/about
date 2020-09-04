@@ -103,7 +103,7 @@
         <td height="50%">
           <h3>ParGO</h3>
           <img src="https://github.com/Tikitko/tikitko/blob/master/images/projects/pargo-logo.png" width="20%"/><br/><br/>
-          <p>Status: <i>closed</i></p>
+          <p>Status: <i>canceled</i></p>
           <p>A program for watching movies online written in C++.</p><br/>
           <br/>
         </td>
@@ -122,7 +122,7 @@
         <td height="50%"><img src="https://github.com/Tikitko/tikitko/blob/master/images/projects/fcards.jpg" width="100%" /></td>
         <td height="50%">
           <h3>FCards</h3>
-          <p>Status: <i>closed</i></p>
+          <p>Status: <i>canceled</i></p>
           <p>Card game "Durak" written on the C#. <i>TIP: So bad code.</i></p>
           <a href="https://github.com/Tikitko/FCards">Sources</a><br/>
           <br/>
@@ -132,7 +132,7 @@
         <td height="50%"><img src="https://github.com/Tikitko/tikitko/blob/master/images/projects/woty.jpg" width="100%" /></td>
         <td height="50%">
           <h3>WoTy</h3>
-          <p>Status: <i>closed</i></p>
+          <p>Status: <i>canceled</i></p>
           <p>The tanks game in 2D on C#. <i>TIP: So bad code.</i></p>
           <a href="https://github.com/Tikitko/WoTy">Sources</a><br/>
           <br/>
@@ -142,7 +142,7 @@
         <td height="50%"></td>
         <td height="50%">
           <h3>DropCMS</h3>
-          <p>Status: <i>closed</i></p>
+          <p>Status: <i>canceled</i></p>
           <p>A convenient basic system that will allow you to develop a website in the shortest possible time, without thinking about developing a kernel.</p>
           <a href="https://github.com/Tikitko/DropCMS">Sources</a><br/>
           <br/>
@@ -152,7 +152,7 @@
         <td height="50%"></td>
         <td height="50%">
           <h3>VK AutoBot</h3>
-          <p>Status: <i>closed</i></p>
+          <p>Status: <i>canceled</i></p>
           <p>Bot for VKontakte written on PHP.</p>
           <a href="https://github.com/Tikitko/VK-AutoBot">Sources</a><br/>
           <br/>
