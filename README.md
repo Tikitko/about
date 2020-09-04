@@ -57,7 +57,7 @@
         <td height="50%">
           <h3>Personal page of WoW guild<br/>(flamingdawn)</h3>
           <img src="https://github.com/Tikitko/tikitko/blob/master/images/projects/flamingdawn-logo.png" width="30%"/><br/><br/>
-          <p>Status: <i>support</i></p>
+          <p>Status: <i>active</i></p>
           <p>Personal page for the guild from the game World of Warcraft, developed on PHP and JS.</p>
           <a href="https://flamingdawn.ru/">flamingdawn.ru</a><br/>
           <br/>
@@ -80,7 +80,7 @@
         <td height="50%">
           <h3>Suppl</h3>
           <img src="https://github.com/Tikitko/tikitko/blob/master/images/projects/suppl-logo.png" width="30%"/><br/><br/>
-          <p>Status: <i>closed</i></p>
+          <p>Status: <i>completed</i></p>
           <p>A music app Suppl for the iOS platform, written on Swift language by me.</p>
           <a href="https://github.com/Tikitko/Suppl-IOS">Sources (IOS)</a><br/>
           <a href="https://github.com/Tikitko/Suppl-API">Sources (API)</a><br/>
@@ -119,12 +119,42 @@
         </td>
       </tr>
       <tr>
+        <td height="50%"><img src="https://github.com/Tikitko/tikitko/blob/master/images/projects/fcards.jpg" width="100%" /></td>
+        <td height="50%">
+          <h3>FCards</h3>
+          <p>Status: <i>closed</i></p>
+          <p>Card game "Durak" written on the C#. <i>TIP: So bad code.</i></p>
+          <a href="https://github.com/Tikitko/FCards">Sources</a><br/>
+          <br/>
+        </td>
+      </tr>
+      <tr>
+        <td height="50%"><img src="https://github.com/Tikitko/tikitko/blob/master/images/projects/woty.jpg" width="100%" /></td>
+        <td height="50%">
+          <h3>WoTy</h3>
+          <p>Status: <i>closed</i></p>
+          <p>The tanks game in 2D on C#. <i>TIP: So bad code.</i></p>
+          <a href="https://github.com/Tikitko/WoTy">Sources</a><br/>
+          <br/>
+        </td>
+      </tr>
+      <tr>
         <td height="50%"></td>
         <td height="50%">
           <h3>DropCMS</h3>
           <p>Status: <i>closed</i></p>
           <p>A convenient basic system that will allow you to develop a website in the shortest possible time, without thinking about developing a kernel.</p>
           <a href="https://github.com/Tikitko/DropCMS">Sources</a><br/>
+          <br/>
+        </td>
+      </tr>
+      <tr>
+        <td height="50%"></td>
+        <td height="50%">
+          <h3>VK AutoBot</h3>
+          <p>Status: <i>closed</i></p>
+          <p>Bot for VKontakte written on PHP.</p>
+          <a href="https://github.com/Tikitko/VK-AutoBot">Sources</a><br/>
           <br/>
         </td>
       </tr>
