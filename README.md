@@ -32,7 +32,7 @@
         <td height="50%"><img src="https://github.com/Tikitko/tikitko/blob/master/images/projects/horizon.jpg" width="100%" /></td>
         <td height="50%">
           <h3>Horizon GO</h3>
-          <img src="https://github.com/Tikitko/tikitko/blob/master/images/projects/horizon-logo.jpg" width="30%"/><br/><br/>
+          <img src="https://github.com/Tikitko/tikitko/blob/master/images/projects/horizon-logo.png" width="30%"/><br/><br/>
           <p>Status: <i>active</i></p>
           <p>I have been a part of the main staff of iOS developers for over 2 years, who have been developing Horizon GO, Ziggo GO, UPC TV applications for watching TV.</p>
           <a href="https://apps.apple.com/de/app/horizon-go/id549148968?l=en">Horizon GO App Store</a><br/>
@@ -44,7 +44,7 @@
         <td height="50%"><img src="https://github.com/Tikitko/tikitko/blob/master/images/projects/antibag.jpg" width="50%" /></td>
         <td height="50%">
           <h3>AntiBAG Tachograph</h3>
-          <img src="https://github.com/Tikitko/tikitko/blob/master/images/projects/antibag-logo.jpg" width="30%"/><br/><br/>
+          <img src="https://github.com/Tikitko/tikitko/blob/master/images/projects/antibag-logo.png" width="30%"/><br/><br/>
           <p>Status: <i>completed</i></p>
           <p>Tachograph iOS app for truck drivers, developed entirely by me and my friend.</p>
           <a href="https://apps.apple.com/ru/app/antibag-%D1%82%D0%B0%D1%85%D0%BE%D0%B3%D1%80%D0%B0%D1%84/id1436730465">AntiBAG Tachograph App Store</a>
@@ -54,7 +54,7 @@
         <td height="50%"><img src="https://github.com/Tikitko/tikitko/blob/master/images/projects/flamingdawn.jpg" width="100%" /></td>
         <td height="50%">
           <h3>Personal page of WoW guild<br/>(flamingdawn)</h3>
-          <img src="https://github.com/Tikitko/tikitko/blob/master/images/projects/flamingdawn-logo.jpg" width="30%"/><br/><br/>
+          <img src="https://github.com/Tikitko/tikitko/blob/master/images/projects/flamingdawn-logo.png" width="30%"/><br/><br/>
           <p>Status: <i>support</i></p>
           <p>Personal page for the guild from the game World of Warcraft, developed on PHP and JS.</p>
           <a href="https://flamingdawn.ru/">flamingdawn.ru</a>
@@ -76,7 +76,7 @@
         <td height="50%"><img src="https://github.com/Tikitko/tikitko/blob/master/images/projects/suppl.jpg" width="100%" /></td>
         <td height="50%">
           <h3>Suppl</h3>
-          <img src="https://github.com/Tikitko/tikitko/blob/master/images/projects/suppl-logo.jpg" width="30%"/><br/><br/>
+          <img src="https://github.com/Tikitko/tikitko/blob/master/images/projects/suppl-logo.png" width="30%"/><br/><br/>
           <p>Status: <i>closed</i></p>
           <p>A music app Suppl for the iOS platform, written on Swift language by me.</p>
           <a href="https://github.com/Tikitko/Suppl-IOS">Sources (IOS)</a><br/>
@@ -87,6 +87,7 @@
         <td height="50%"><img src="https://github.com/Tikitko/tikitko/blob/master/images/projects/tikitko.jpg" width="100%" /></td>
         <td height="50%">
           <h3>Personal page (Tikitko)</h3>
+          <img src="https://github.com/Tikitko/tikitko/blob/master/images/projects/tikitko-logo.png" width="30%"/><br/><br/>
           <p>Status: <i>completed</i></p>
           <p>Personal web page about me on HTML and CSS.</p>
           <a href="http://tikitko.su/">tikitko.su</a>
@@ -96,8 +97,27 @@
         <td height="50%"><img src="https://github.com/Tikitko/tikitko/blob/master/images/projects/pargo.jpg" width="100%" /></td>
         <td height="50%">
           <h3>ParGO</h3>
+          <img src="https://github.com/Tikitko/tikitko/blob/master/images/projects/pargo-logo.png" width="20%"/><br/><br/>
           <p>Status: <i>closed</i></p>
           <p>A program for watching movies online written in C++.</p>
+        </td>
+      </tr>
+      <tr>
+        <td height="50%"><img src="https://github.com/Tikitko/tikitko/blob/master/images/projects/rust-snake.jpg" width="100%" /></td>
+        <td height="50%">
+          <h3>Rust Snake</h3>
+          <p>Status: <i>active</i></p>
+          <p>A simple snake game written in Rust will be used as a server in the future.</p>
+          <a href="https://github.com/Tikitko/rust-snake">Sources</a>
+        </td>
+      </tr>
+      <tr>
+        <td height="50%"></td>
+        <td height="50%">
+          <h3>DropCMS</h3>
+          <p>Status: <i>closed</i></p>
+          <p>A convenient basic system that will allow you to develop a website in the shortest possible time, without thinking about developing a kernel.</p>
+          <a href="https://github.com/Tikitko/DropCMS">Sources</a>
         </td>
       </tr>
     </tbody>
