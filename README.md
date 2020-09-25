@@ -60,6 +60,8 @@
           <p>Status: <i>active</i></p>
           <p>Personal page for the guild from the game World of Warcraft, developed on PHP and JS.</p>
           <a href="https://flamingdawn.ru/">flamingdawn.ru</a><br/>
+          <a href="https://github.com/Tikitko/wowg">Sources (Core)</a> (private)<br/>
+          <a href="https://github.com/Tikitko/wowg-services">Sources (Services)</a> (private)<br/>
           <br/>
         </td>
       </tr>
@@ -82,8 +84,8 @@
           <img src="https://github.com/Tikitko/tikitko/blob/master/images/projects/suppl-logo.png" width="30%"/><br/><br/>
           <p>Status: <i>completed</i></p>
           <p>A music app Suppl for the iOS platform, written on Swift language by me.</p>
-          <a href="https://github.com/Tikitko/Suppl-IOS">Sources (IOS)</a><br/>
-          <a href="https://github.com/Tikitko/Suppl-API">Sources (API)</a><br/>
+          <a href="https://github.com/Tikitko/Suppl-IOS">Sources (IOS)</a> (private)<br/>
+          <a href="https://github.com/Tikitko/Suppl-API">Sources (API)</a> (private)<br/>
           <br/>
         </td>
       </tr>
