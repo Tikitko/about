@@ -29,19 +29,6 @@
         <th bgcolor="white">Information</th>
       </tr>
       <tr>
-        <td height="50%"><img src="https://github.com/Tikitko/tikitko/blob/master/images/projects/horizon.jpg" width="100%" /></td>
-        <td height="50%">
-          <h3>Horizon GO</h3>
-          <img src="https://github.com/Tikitko/tikitko/blob/master/images/projects/horizon-logo.png" width="30%"/><br/><br/>
-          <p>Status: <i>active</i></p>
-          <p>I have been a part of the main staff of iOS developers for over 2 years, who have been developing Horizon GO, Ziggo GO, UPC TV applications for watching TV.</p>
-          <a href="https://apps.apple.com/de/app/horizon-go/id549148968?l=en">Horizon GO App Store</a><br/>
-          <a href="https://apps.apple.com/nl/app/ziggo-go/id1156417365">Ziggo GO App Store</a><br/>
-          <a href="https://apps.apple.com/ch/app/upc-tv-switzerland/id1292688012?l=en">UPC TV App Store</a><br/>
-          <br/>
-        </td>
-      </tr>
-      <tr>
         <td height="50%"><img src="https://github.com/Tikitko/tikitko/blob/master/images/projects/antibag.jpg" width="50%" /></td>
         <td height="50%">
           <h3>AntiBAG Tachograph</h3>
